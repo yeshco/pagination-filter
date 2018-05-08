@@ -1,0 +1,40 @@
+// console.log(ul[0].outerHTML)
+//
+// for (secondI=0; secondI<10; secondI++){
+//   newArray += ul[secondI].outerHTML;
+// }
+//
+// console.log(newArray);
+
+
+
+
+
+
+//
+//   let thirdi = 0;
+
+
+// let newArray =;
+// for(firsti=0; firsti<NumberOfPages; firsti++){
+  // let secondArray=[];
+//
+//   let thirdi = 0;
+  // for (secondi=0; secondi<10; secondi++){
+  //   secondArray[secondi] += ul[secondi].outerHTML;
+  // }
+//   newArray[firsti] += secondArray;
+//   thirdi + 10;
+// }
+//
+// console.log(secondArray);
+
+// for (i=0; i<10; i++){
+//   let firstArray;
+//   let secondArray;
+//
+// }
+
+
+//  = Array.prototype.slice.call( ul );
+// var newNewArray = newArray[0] + newArray[1];
